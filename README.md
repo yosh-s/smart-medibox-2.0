@@ -36,7 +36,8 @@ Smart Medibox 2.0 is a comprehensive medication management system that combines 
 - **User-Friendly Interface**: Push-button navigation for setting alarms, time zones, and viewing schedules.
 - **Warning System**: Alerts users with LEDs and a buzzer for critical temperature or humidity levels.
 
----
+
+![image](https://github.com/user-attachments/assets/d4a7f9a4-54c6-4602-9e40-91ec5b275111)
 
 ## Functionalities
 ### 1. Alarm Management
@@ -87,7 +88,8 @@ Smart Medibox 2.0 is a comprehensive medication management system that combines 
 - **Push Buttons (4)**: For user input (OK, Cancel, Up, Down).
 - **Resistors and Breadboard**: For circuit assembly.
 
----
+![image](https://github.com/user-attachments/assets/bbdd78be-8ee2-4582-8598-2a797cef4df5)
+
 
 ## Software Requirements
 - **Arduino IDE**: For programming the ESP32.
@@ -157,7 +159,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ---
 
 ## Acknowledgements
-- **xAI**: For inspiring innovative AI and IoT solutions.
 - **Arduino Community**: For providing robust libraries and documentation.
 - **MQTT**: For enabling seamless IoT communication.
 - **Contributors**: Thanks to everyone who tests, suggests, or improves this project!
